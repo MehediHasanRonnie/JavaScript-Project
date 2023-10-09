@@ -10,3 +10,7 @@ Open (http://127.0.0.1:5500/02-BMICalculator/index.html?)) to view it in the bro
 <ins>3) Digital Clock</ins> <br/>
 Open (http://127.0.0.1:5500/03-DigitalClock/) to view it in the browser. <br/><br/>
 ![Project Preview](/image/localtime.png)
+<br/>
+<ins>3) Digital Clock</ins> <br/>
+Open (http://127.0.0.1:5500/04-GuessTheNumber/index.html?) to view it in the browser. <br/><br/>
+![Project Preview](/image/guessnumber.png)
