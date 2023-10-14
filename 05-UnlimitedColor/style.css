@@ -1,0 +1,24 @@
+body {
+  background-color: #212121;
+  color: #fff;
+  margin: 50px;
+}
+h1 {
+  color: aliceblue;
+}
+button {
+  background-color: #141414;
+  color: #fff;
+  width: 75px;
+  height: 32.5px;
+  border-radius: 10px;
+  font-size: 15px;
+  border-style: none;
+  margin-top: 30px;
+  /* margin-left: 50px; */
+}
+button:hover {
+  background-color: #fff;
+  color: #141414;
+  font-weight: bold;
+}
