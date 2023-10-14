@@ -14,6 +14,6 @@ Open (http://127.0.0.1:5500/03-DigitalClock/) to view it in the browser. <br/><b
 <br/>
 <br/>
 <br/>
-<ins>3) Digital Clock</ins> <br/>
+<ins>4) Number Guessing Game</ins> <br/>
 Open (http://127.0.0.1:5500/04-GuessTheNumber/index.html?) to view it in the browser. <br/><br/>
 ![Project Preview](/image/guessnumber.png)
