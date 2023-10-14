@@ -27,4 +27,4 @@ Open (http://127.0.0.1:5500/05-UnlimitedColor/index.html) to view it in the brow
 <br/>
 <ins>4)Keyboard code</ins> <br/>
 Open (http://127.0.0.1:5500/06-KeyBoard/index.html) to view it in the browser. <br/><br/>
-![Project Preview](/image/keycode.png)
+![Project Preview](/image/keycode123.png)
